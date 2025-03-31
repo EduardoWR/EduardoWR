@@ -62,7 +62,6 @@ E aí! Sou Eduardo Wijchineski Rodrigues, tenho 22 anos e sou natural do Rio Gra
 ### 🤖 Estatísticas
 
 
-<p>
   
   <img 
     align="left" 
@@ -79,6 +78,5 @@ E aí! Sou Eduardo Wijchineski Rodrigues, tenho 22 anos e sou natural do Rio Gra
       src="https://github-readme-stats.vercel.app/api?username=EduardoWR&theme=blue_navy&show_icons=true&locale=pt-br" 
   />
 
-</p>
 
 <br/>
