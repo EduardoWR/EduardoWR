@@ -62,21 +62,30 @@ E aí! Sou Eduardo Wijchineski Rodrigues, tenho 22 anos e sou natural do Rio Gra
 ### 🤖 Estatísticas
 
 
-  
+<p display="flex">
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    flex ="1"
+    gap="10"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoWR&theme=blue_navy&locale=pt-br&custom_title=Tecnologias&layout=compact" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
+      flex="1"
+      gap="10"
       src="https://github-readme-stats.vercel.app/api?username=EduardoWR&theme=blue_navy&show_icons=true&locale=pt-br" 
   />
-
+</p>
 
 <br/>
+
+<p>&nbsp;</p>
+<p align="center" height="300" display="flex" align-items="center">
+  
+  <img src="https://visit-counter.vercel.app/counter.png?page=https://github.com/EduardoWR&s=35&c=ff0000&bg=00000000&no=2&ff=digi&tb=visitantes++%3A++&ta=" alt="visits">
+  
+</p>
